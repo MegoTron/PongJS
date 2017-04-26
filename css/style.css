@@ -3,7 +3,7 @@ html {
   width:100%;
 }
 body {
-  background-image: url(../img/gamebackground3.jpg);
+  background-image: url(../img/gamebackground2.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   color: #fff;
@@ -31,4 +31,8 @@ canvas {
   bottom: 0;
   left: 0;
   right: 0;
+}
+
+.footer-color {
+  background: rgba(0,0,0,.5);
 }
