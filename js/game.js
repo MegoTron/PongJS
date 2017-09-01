@@ -1,4 +1,4 @@
-var WIDTH=1000, HEIGHT=1000, pi=Math.PI;
+var WIDTH=1000, HEIGHT=950, pi=Math.PI;
    var UpArrow = 38, DownArrow = 40;
    var canvas, ctx, keystate;
    var player, ai, ball;
